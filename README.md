@@ -44,5 +44,3 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 2. Open it using Microsoft Power BI Desktop.
 3. Interact with the Job Level slicer and dashboard visuals.
 
-## Disclaimer
-This project is intended for learning and portfolio demonstration. Findings describe patterns in the dataset and should not be interpreted as proof of causation.
